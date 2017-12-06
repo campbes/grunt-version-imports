@@ -1,0 +1,42 @@
+{
+  "name": "grunt-version-imports",
+  "description": "Automatically version (cache-bust) module imports",
+  "version": "0.0.0",
+  "homepage": "https://github.com/campbes/grunt-version-imports",
+  "author": {
+    "name": "campbes",
+    "email": "stuartjcampbell@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/campbes/grunt-version-imports"
+  },
+  "bugs": {
+    "url": "https://github.com/campbes/grunt-version-imports/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/campbes/grunt-version-imports/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "md5-file": "^3.2.3",
+    "rev-hash": "^2.0.0"
+  }
+}

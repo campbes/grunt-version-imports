@@ -1,0 +1,3 @@
+import absolute from '/absolute.js';
+import current from './current.js?v=45aef2f6054ce55b2af516a3f375a0e9';
+import relative from '../relative/relative.js?v=45aef2f6054ce55b2af516a3f375a0e9';
