@@ -1,7 +1,7 @@
 {
   "name": "grunt-version-imports",
   "description": "Automatically version (cache-bust) module imports",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/campbes/grunt-version-imports",
   "author": {
     "name": "campbes",
